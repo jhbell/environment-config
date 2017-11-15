@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/jeff/Development/django/mysite/polls'
+let g:netrw_dirhist_2='/Users/jeff/Documents/School/Fall_2015/CS312/Personality'
+let g:netrw_dirhist_3='/Users/jeff/Documents/School/Fall_2015/CS312/Decrypt'
+let g:netrw_dirhist_4='/Users/jeff/Development'
+let g:netrw_dirhist_5='/Users/jeff/Development/GifterApp'
+let g:netrw_dirhist_6='/Users/jeff/.gnome2'
